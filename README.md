@@ -1,5 +1,5 @@
 # Tic-Tac-Toe w React Hooks!
-A game converted game from a class based component to a full funcitonal component using these guides:
+A game converted game from a class based component to a full funcitonal component utilizing Bulma for a more lightweight app using these guides:
 https://www.freecodecamp.org/news/learn-how-to-build-tic-tac-toe-with-react-hooks/
 https://reactjs.org/tutorial/tutorial.html
 
