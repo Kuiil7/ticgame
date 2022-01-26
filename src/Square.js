@@ -1,10 +1,6 @@
 import React from 'react';
 
-
-
-
 const Square = ({ value, onClick }) => (
-
 
 <>
 <div onClick={onClick} style={{height:'125px',  border: '5px solid white'}} className=' has-background-primary'>
@@ -12,15 +8,6 @@ const Square = ({ value, onClick }) => (
 {value}
 </p>
 </div>
-
-
 </>
-
-
-
-
-
-
-
 );
 export default Square;

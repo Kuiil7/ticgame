@@ -3,11 +3,19 @@ import Game from './Game'
 
 const App = () => {
   return (
-<>
-<div>
- 
+    <>
+    <div className='columns is-justify-content-center'>
+      < div className='column is-5 '>
+    <section className='hero is-fullheight'>
   <Game />
-</div>
+  </section>
+  </div>
+    </div>
+
+
+
+
+
 </>
   );
 };
