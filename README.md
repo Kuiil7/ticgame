@@ -12,7 +12,6 @@ A game converted game from a class based component to a full funcitonal componen
 4. When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
 
 [Live Demo](https://ticgame.vercel.app/)
-[source](https://www.exploratorium.edu/brain_explorer/tictactoe.html)
 
 ## Built with
 React and Bulma.
